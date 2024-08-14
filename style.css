@@ -8,7 +8,7 @@ table#tlayout {
 }
 
 html {
-min-width:910px; 
+	min-width:910px; 
 }
 
 body {
@@ -395,6 +395,7 @@ table.imgtable, table.imgtable td {
 
     body {
       margin-left: 60px !important;
+	margin-right: 60px;
     }
 
 }
