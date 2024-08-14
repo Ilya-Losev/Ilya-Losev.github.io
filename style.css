@@ -14,8 +14,8 @@ html {
 body {
 	background: white;
 	font-family: Georgia, serif;
-	font-size: 12pt;
-	padding-bottom: 20px;
+	font-size: 14pt;
+	padding-bottom: 30px;
 	margin: 0;
 	margin-right: 200px;
   	margin-left: 200px;
@@ -380,6 +380,7 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 	margin-bottom: 30px;
+	font-size:16px;
 }
 
 @media (max-width: 1200px) {
