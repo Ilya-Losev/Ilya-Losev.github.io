@@ -1,9 +1,14 @@
 /* Default css file for jemdoc. */
 
+
 table#tlayout {
     border: none;
     border-collapse: separate;
     background: white;
+}
+
+html {
+min-width:910px; 
 }
 
 body {
@@ -14,7 +19,8 @@ body {
 	margin: 0;
 	margin-right: 200px;
   	margin-left: 200px;
-	min-width:880px; 
+	min-width:870px; 
+	position: relative
 }
 
 li{
@@ -393,7 +399,7 @@ table.imgtable, table.imgtable td {
 
 }
 
-@media (max-width: 880px) {
+@media (max-width: 900px) {
 
     body {
       margin-left: 20px !important;
