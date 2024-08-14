@@ -381,7 +381,7 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
-	margin-bottom: 30px;
+	margin-bottom: -10px;
 	font-size: 95%;
 }
 
