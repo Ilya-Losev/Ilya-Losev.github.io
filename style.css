@@ -413,7 +413,9 @@ table.imgtable, table.imgtable td {
 }
 
 @media (max-width:600px) {
-
+	html {
+		font-size: 16pt;
+	}
     body {
       margin-left: 20px !important;
 	margin-right:20px;
