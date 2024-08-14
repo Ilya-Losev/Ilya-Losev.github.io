@@ -396,7 +396,7 @@ table.imgtable, table.imgtable td {
 @media (max-width: 880px) {
 
     body {
-      margin-left: 00px !important;
+      margin-left: 10px !important;
 	margin-right:20px;
     }
 
