@@ -9,8 +9,16 @@ table#tlayout {
 body {
 	background: white;
 	font-family: Georgia, serif;
-	padding-bottom: 8px;
+	padding-bottom: 20px;
 	margin: 0;
+	margin-right: 240px;
+  	margin-left: 170px;
+	min-width:880px; 
+}
+
+li{
+	margin-bottom: 5px;
+	margin-top: 10px;
 }
 
 #layout-menu {
@@ -364,4 +372,5 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
+	margin-bottom: 30px;
 }
