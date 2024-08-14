@@ -62,16 +62,8 @@ li{
 	margin-left: 0.5em;
 }
 
-tt {
-    background: #ffffdd;
-}
 
-pre, tt {
-	font-size: 90%;
-	font-family: monaco, monospace;
-}
-
-a, a > tt {
+a {
 	color: #224b8d;
 	text-decoration: none;
 }
