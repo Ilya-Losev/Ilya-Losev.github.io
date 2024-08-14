@@ -382,7 +382,11 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 	margin-bottom: -10px;
-	font-size: 95%;
+	font-size: 100%;
+}
+
+small {
+	font-size: 90%;
 }
 
 @media (max-width: 1200px) {
