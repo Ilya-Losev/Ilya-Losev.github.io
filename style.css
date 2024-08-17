@@ -9,7 +9,7 @@ table#tlayout {
 
 html {
 	min-width:910px; 
-	font-size: 13pt;		
+	font-size: 18px;		
 }
 
 body {
@@ -353,7 +353,7 @@ small {
 
 @media only screen and (max-width:600px) {
 	html {
-		font-size: 14pt;
+		font-size: 18px;
 	}
     body {
       margin-left: 20px !important;
