@@ -9,7 +9,7 @@ table#tlayout {
 
 html {
 	min-width:910px; 
-	font-size: 13pt;		
+	font-size: 12pt;		
 }
 
 body {
@@ -28,7 +28,6 @@ body {
 li{
 	margin-bottom: 5px;
 	margin-top: 10px;
-	font-size: 95%;
 }
 
 
@@ -322,9 +321,11 @@ table.imgtable, table.imgtable td {
 	font-size: 100%;
 }
 
-small {
-	font-size: 90%;
+cvemail ul{
+	margin-top: 20px;
+	font-size: 95%;
 }
+
 
 @media only screen and (max-width: 1200px) {
 
@@ -361,5 +362,9 @@ small {
       margin-left: 20px !important;
 	margin-right:20px;
     }
+
+	cvemail {
+		font-size: 90%;
+	}
 
 }
