@@ -409,9 +409,9 @@ cvemail ul{
 
 
 
-@media only screen and (max-width:910px) {
+@media only screen and (max-width:911px) {
 	html {
-		font-size: 16pt;
+		font-size: 18pt;
 	}
     body {
       margin-left: 20px !important;
