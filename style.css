@@ -8,9 +8,9 @@ table#tlayout {
 }
 
 html {
-	min-width:910px; 
+	min-width:600px; 
 	font-size: 12pt;
-	max-width:1600px;
+	max-width:1630px;
   margin: auto;		
 }
 
@@ -23,7 +23,7 @@ body {
 	margin: 0;
 	margin-right: 200px;
   	margin-left: 200px;
-	min-width:870px; 
+	min-width:560px; 
 	position: relative
 }
 
@@ -329,25 +329,76 @@ cvemail ul{
 }
 
 
-@media only screen and (max-width: 1200px) {
+
+
+@media only screen and (min-width: 1490px) {
+	html {
+		font-size: 16pt;
+	}
+
+    body {
+      margin-left: 170px !important;
+	margin-right: 170px;
+    }
+
+}
+
+@media only screen and (max-width: 1490px) {
+	html {
+		font-size: 14pt;
+	}
+
+    body {
+      margin-left: 170px !important;
+	margin-right: 170px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1340px) {
+	html {
+		font-size: 12pt;
+	}
+
+    body {
+      margin-left: 180px !important;
+	margin-right: 180px;
+    }
+
+}
+
+
+
+
+@media only screen and (max-width: 1230px) {
+	html {
+		font-size: 12pt;
+	}
 
     body {
       margin-left: 130px !important;
+	margin-right:130px;
     }
 
 }
 
-
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 1130px) {
+	html {
+		font-size: 12pt;
+	}
 
     body {
-      margin-left: 60px !important;
-	margin-right: 60px;
+      margin-left: 80px !important;
+	margin-right: 80px;
     }
 
 }
 
-@media only screen and (max-width: 910px) {
+@media only screen and (max-width: 1000px) {
+	html {
+		font-size: 12pt;
+	}
 
     body {
       margin-left: 20px !important;
@@ -356,9 +407,41 @@ cvemail ul{
 
 }
 
-@media only screen and (max-width:600px) {
+
+@media only screen and (max-width:910px) {
 	html {
-		font-size: 13pt;
+		font-size: 12pt;
+	}
+    body {
+      margin-left: 20px !important;
+	margin-right:20px;
+    }
+
+	cvemail {
+		font-size: 90%;
+	}
+
+}
+
+@media only screen and (max-width:910px) {
+	html {
+		font-size: 12pt;
+	}
+    body {
+      margin-left: 20px !important;
+	margin-right:20px;
+    }
+
+	cvemail {
+		font-size: 90%;
+	}
+
+}
+
+
+@media only screen and (max-width:800px) {
+	html {
+		font-size: 14pt;
 	}
     body {
       margin-left: 20px !important;
