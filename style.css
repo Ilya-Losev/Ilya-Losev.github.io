@@ -9,7 +9,9 @@ table#tlayout {
 
 html {
 	min-width:910px; 
-	font-size: 12pt;		
+	font-size: 12pt;
+	max-width:1600px;
+  margin: auto;		
 }
 
 body {
