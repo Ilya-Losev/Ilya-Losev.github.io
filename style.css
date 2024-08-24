@@ -325,7 +325,7 @@ table.imgtable, table.imgtable td {
 
 cvemail ul{
 	margin-top: 20px;
-	font-size: 95%;
+	font-size: 100%;
 }
 
 
@@ -418,9 +418,6 @@ cvemail ul{
 	margin-right:20px;
     }
 
-	cvemail {
-		font-size: 90%;
-	}
 
 }
 
@@ -434,8 +431,5 @@ cvemail ul{
 	margin-right:20px;
     }
 
-	cvemail {
-		font-size: 90%;
-	}
 
 }
