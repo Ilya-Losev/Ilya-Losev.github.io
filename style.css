@@ -333,7 +333,7 @@ cvemail ul{
 
 @media only screen and (min-width: 1490px) {
 	html {
-		font-size: 16pt;
+		font-size: 14pt;
 	}
 
     body {
@@ -345,7 +345,7 @@ cvemail ul{
 
 @media only screen and (max-width: 1490px) {
 	html {
-		font-size: 14pt;
+		font-size: 13pt;
 	}
 
     body {
